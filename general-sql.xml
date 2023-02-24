@@ -7,6 +7,8 @@
     <option name="QUOTE_IDENTIFIER" value="2" />
     <option name="QUOTE_TYPE" value="31" />
     <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ALIGN_ALIASES" value="true" />
     <option name="EXPR_CASE_THEN_ALIGN" value="true" />
   </SqlCodeStyleSettings>
 </code_scheme>
